@@ -33,10 +33,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#Limitation
+# Limitation
 With my Pi algorithm, after crossing check with published Pi value, it managed to calculate the Pi value up to 14 digits only, which is 3.1415926535897. 
 Calculated 15th digit is 8 but the correct published one is 9. 
 
-#Future work
+# Future work
 Will use other formula to get more accurate Pi value.
 Will save the most accurate Pi value to MongoDB database.
